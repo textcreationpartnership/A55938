@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings at the Guild-Hall in London, on Thursday July the 29th, 1680</title>
+            <author>Guildhall (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55938</idno>
+            <idno type="STC">Wing P3559</idno>
+            <idno type="STC">ESTC R18146</idno>
+            <idno type="EEBO-CITATION">12349248</idno>
+            <idno type="OCLC">ocm 12349248</idno>
+            <idno type="VID">59932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings at the Guild-Hall in London, on Thursday July the 29th, 1680</title>
+                  <author>Guildhall (London, England)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59932:1"/>
+            <head>The Proceedings AT THE GUILD-HALL IN LONDON, On <date>Thurſday <hi>July</hi> the 29th, 1680.</date>
+            </head>
+            <p>THe Poll having been caſt up on Munday the 26th, be<g ref="char:EOLhyphen"/>fore Sir <hi>Jonathan Raymond</hi> and Sir <hi>Simeon Lewes,</hi> the preſent Sheriffs, and <hi>Henry Criſpe</hi> Eſquire Common Serjeant; together with Sir <hi>Thomas Player</hi> Knight, <hi>John Ellis, Nicholas Delue, Thomas Papillon</hi> Eſquires, and Mr. <hi>Peter Houblon,</hi> Mr. <hi>Lucy Knightley,</hi> and Mr. <hi>Samuel Swin<g ref="char:EOLhyphen"/>nock</hi> Merchants, all eight on behalf of <hi>Slingsby Bethel,</hi> and <hi>Henry Corniſh.</hi>
+            </p>
+            <p>Sir <hi>William Dodſon</hi> Kt. <hi>Nicholas Charleton</hi> Eſquire, <hi>George Tori<g ref="char:EOLhyphen"/>ano,</hi> and <hi>Henry Loads</hi> Merchants, on behalf of Mr. <hi>Ralph Box</hi> and Mr. <hi>Nicholſon,</hi> it did appear before them, that
+<list>
+                  <item>Mr. <hi>Slingsby Bethel</hi> had Votes—2276.</item>
+                  <item>Mr. <hi>Henry Corniſh</hi> had Votes—2483.</item>
+                  <item>Mr. <hi>Ralph Box</hi> had Votes—1428.</item>
+                  <item>Mr. <hi>Humph. Nicholſon</hi> had Votes—1230.</item>
+               </list>
+            </p>
+            <p>Upon which a Common-hall was Summon'd on Thurſday <hi>July</hi> 29, which being met, made a very numerous Aſſembly, crowding one another from Ten until half an hour paſt Twelve, at which time the Lord Mayor and Court of Aldermen came upon the Huſtings, and being ſate, and ſilence commanded, the Common-Sergeant thus declared the occaſion of the Meeting.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>MY Lord Mayor hath met you here to day, that the Sheriffs may declare to you how they have found it upon the Poll, and that they may make the ſame return to my Lord Mayor and the Court of Aldermen according to Cuſtom.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Having ſo ſaid, and Sir <hi>Thomas Player,</hi> Mr. <hi>Pilkington,</hi> Mr. <hi>Pa<g ref="char:EOLhyphen"/>pillon</hi> and others, ſtanding without the Huſtings Bar, directly oppo<g ref="char:EOLhyphen"/>ſite to the Lord Mayor, Mr. <hi>Papillon</hi> delivered into the Common-Sergeants hand the following paper with theſe words.</p>
+            <sp>
+               <pb n="2" facs="tcp:59932:2"/>
+               <speaker>Mr. <hi>Papillon.</hi>
+               </speaker>
+               <p>My Lord Mayor, The Commons of <hi>London</hi> do make a requeſt to your Lordſhip, in reference to their own juſt vindication.</p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable Sir <hi>ROBERT CLAYTON</hi> Kt. Lord Mayor of the City of <hi>LONDON.</hi>
+                        </head>
+                        <p>WE the Commons of this City now in Common-hall aſſembled, cannot but take notice how our laſt meeting here on this oc<g ref="char:EOLhyphen"/>caſion, hath by ſome of this City been miſrepreſented to His Majeſty as Tumultuous and diſorderly; and though we did not obſerve any thing of that kind, but what might commonly happen in ſuch great Aſſemblies on like occaſions, yet not knowing how far the indiſcre<g ref="char:EOLhyphen"/>tion of the Informers may have carried that ſcandal in prejudice of us, we hold our ſelves bound in duty to declare, (as hereby we do) That the heat that then appeared among us, was no other than the effect of emulation for His Majeſties S<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rvice, and the preſerva<g ref="char:EOLhyphen"/>tion of our own juſt Rights; and therefore we do utterly deteſt any thought of violating our Allegiance to our Sovereign, or of doing the leaſt thing that may bear the Interpretation of an affront to His Government, or a diſ-affection to His Royal Perſon.</p>
+                        <p>We pray your Lordſhip to repreſent us as ſuch to the King, that he may be no longer deceived in that matter, nor His gracious inten<g ref="char:EOLhyphen"/>tions towards us be in any ſort diverted; and withal humbly to aſ<g ref="char:EOLhyphen"/>ſure His Majeſty, that we will with one heart and one hand, to the uttermoſt peril of all that is dear to us, joyn in the defence of His Royal Perſon, and the Proteſtant Religion, againſt all Attempts and Plots to the contrary, though never ſo often repeated upon us.</p>
+                        <p>And being deeply ſenſible it hath been the deſign of the Popiſh Party for many years, and ſtill is, for to deſtroy him and it: And that there is under God no way ſo effectual to prevent theſe their cruel and bloody purpoſes, as by His Majeſties Authority in Parlia<g ref="char:EOLhyphen"/>ment. We therefore further pray your Lordſhip, humbly to beſeech His Majeſty in our Names, That for the preſervation of His Royal Perſon and Government, and the Proteſtant Religion to us and our Poſterity, he would graciouſly pleaſe to order that this Parliament, his great Council, may aſſemble and ſit, that the moſt ſpeedy and ef<g ref="char:EOLhyphen"/>fectual courſe may be taken, to ſearch into, and prevent thoſe grie<g ref="char:EOLhyphen"/>vous cruelties, deſolations, and deſtructions, which the Councils of <hi>Rome</hi> have determined, and are ſtill endeavouring to execute on this Kingdom<g ref="char:punc">▪</g> and as by that means we have hopes we ſhall be ſe<g ref="char:EOLhyphen"/>cured againſt all our fears, ſo we ſhall have cauſe to thank your Lordſhip for thus repreſenting us to His Majeſty, and humbly to pray for His long Life and happy Reign over us, as becomes us who profeſs our ſelves to be His Majeſties Obedient, Loyal, and Duti<g ref="char:EOLhyphen"/>ful Subjects.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="3" facs="tcp:59932:2"/>This was aſſented to, and ſtrengthened by the unanimous ſhouts and acclamations of all the aſſembled Citizens, as generally hold<g ref="char:EOLhyphen"/>ing up their hands in farther teſtimony of their Approbation. Af<g ref="char:EOLhyphen"/>ter which, the Lord Major and Aldermen went off the Huſtings in<g ref="char:EOLhyphen"/>to the Council-Chamber, leaving the two preſent Sheriffs and the Common-Serjeant behind, who then delivered himſelf again in theſe words.</p>
+            <sp>
+               <speaker>Common-Serjeant.</speaker>
+               <p>Gentlemen,<lb/>
+at your Meeting on the 14th of <hi>July</hi>laſt for the choice of Sheriffs to ſerve you for the year enſuing, theſe perſons were put in nomination, Sir <hi>William Ruſſel</hi> Kt. <hi>Slingsby Bethel, Henry Corniſh, Ralph Box, Humphrey Nicolſon;</hi> and the Sheriffs decla<g ref="char:EOLhyphen"/>red the choice to fall on <hi>Slingsby Bethell,</hi> and <hi>Henry Corniſh,</hi> but there was a Poll demanded for Mr. <hi>Ralph Box,</hi> and<hi>Humphrey Ni<g ref="char:EOLhyphen"/>cholſon,</hi> and upon the Poll the Sheriffs do find, that
+<list>
+                     <item>
+                        <hi>Slingsby Bethell</hi> hath—2276 Votes.</item>
+                     <item>
+                        <hi>Henry Corniſh</hi>—2483.</item>
+                     <item>
+                        <hi>Ralph Box</hi>—1428,</item>
+                     <item>
+                        <hi>Humphrey Nicholſon</hi>—1230.</item>
+                  </list>
+and ſo the majority is for Mr. <hi>Slingsby Bethell,</hi> and Mr. <hi>Henry Corniſh.</hi>
+               </p>
+            </sp>
+            <p>Whereupon the whole Hall gave a ſecond acclamation as before. Immediately after this, the Lord Mayor and Court of Aldermen re<g ref="char:EOLhyphen"/>turned again to the Huſtings, at which time the Common-Serje<g ref="char:EOLhyphen"/>ant expreſſed himſelf to the Citizens as follows.</p>
+            <sp>
+               <speaker>Common-Serjeant.</speaker>
+               <p>Gentlemen,<lb/>
+I have acquainted my Lord Mayor and the Court of Aldermen, that on the 14th of
+<hi>July</hi> laſt, ſeveral perſons were put in nomina<g ref="char:EOLhyphen"/>tion to be Sheriffs of the City of <hi>London,</hi> and County of <hi>Middle<g ref="char:EOLhyphen"/>ſex</hi> for the year enſuing; that there was a Poll demanded, and that upon the Poll Mr. <hi>Slingsby Bethell,</hi> and Mr.<hi>Henry Corniſh</hi> had the majority of Votes; and I am commanded by the Court to declare, That <hi>Slingsby Bethel,</hi> and <hi>Henry Corniſh,</hi> are your Sheriffs for the year enſuing: and this is your free choice.</p>
+            </sp>
+            <p>Upon the words <hi>Free Choice,</hi> there was a third acclamation, by which nothing more of general conſent and unanimity could be expreſſed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <pb n="4" facs="tcp:59932:3"/>
+                        <head>THE Lord MAYOR's Speech.</head>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Muſt confeſs I have always had this apprehenſion, that no<g ref="char:EOLhyphen"/>hing could contribute more to the ſafety of His Majeſties Per<g ref="char:EOLhyphen"/>ſon, and the Welfare of his people, than a right underſtanding be<g ref="char:EOLhyphen"/>tween the King and His People, and more immediately between the King and this his great City. If there have been any ſuch miſre<g ref="char:EOLhyphen"/>preſentations as you ſeem to intimate in your Petition, I call God to witneſs I am free from it, and I do not eaſily believe any body elſe would be guilty of ſuch a thing; however, as to that matter, Gen<g ref="char:EOLhyphen"/>tlemen, I ſhall readily comply with your requeſt, and inform the King truly of the fact. For the other matter, I am obliged to ſay ſo much to you, that I had the honour not long ſince to wait upon His Majeſty, when he was pleaſed to declare to me and aſſure me, that this Parliament ſhould ſit in <hi>November</hi> next; and I am in<g ref="char:EOLhyphen"/>formed likewiſe, that he hath acquainted all his Judges with the ſame thing, for them to ſatisfie the Countreys in their ſeveral Cir<g ref="char:EOLhyphen"/>cuits. If that be ſo, I hope your great concern for that matter might have been ſpared, being anticipated by His Majeſties graci<g ref="char:EOLhyphen"/>ous intention. However, I ſhall not be wanting with all humility to lay the whole matter before him.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>My Lord having ended his Speech, the whole Hall returned their humble thanks to his Lordſhip by a fourth acclamation, not infe<g ref="char:EOLhyphen"/>riour to the reſt, teſtifying their full ſatisfaction in what his Lord<g ref="char:EOLhyphen"/>ſhip had declared.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
